@@ -443,14 +443,31 @@
 .card-color-6{
     background: #5159A1;
     border-radius: 10px;
-   
-    padding: 2rem;
-    max-width: 80%;
+   padding: 2rem; 
+    
+    
+ 
     h1,h2,h3,p {
         margin: 0;
         color: #ffffff;      
     }   
 }
+
+.card-color-10{
+    background: #5159A1;
+    border-radius: 10px;
+    height: 70px;
+    width: 300px;   
+    padding-left: 18px;
+    
+    
+ 
+    h1,h2,h3,p {
+        margin: 0;
+        color: #ffffff;      
+    }   
+}
+
 .card-color-7{
     padding: 2rem;
     max-width: 80%;
